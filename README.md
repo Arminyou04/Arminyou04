@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey there! I'm Armin, 👨‍💻 A detail-oriented data analyst with a foundation in computer engineering and a growing command of Python, SQL, and statistical thinking. Motivated by the quiet precision of data, with a mindset shaped by logic, structure, and curiosity. Currently building a portfolio grounded in real-world datasets, with the aim of transforming raw information into impactful business insights. Driven by a genuine passion for discovering patterns that matter. 🚀<br><br>🚀 I am currently working on designing a library management system database. <br>🤝 I am looking to collaborate on anything that screams excitement in the data realm.<br>📚 I am currently learning Oracle🛢️, and Pandas🐼, and constantly honing my data skills. 🌐<br>🔍 I am looking for help with staying on top of the latest data trends. If you've got the lowdown on what's hot, I'm all ears.<br>
+Hey there! I'm Armin, 👨‍💻 a Test Automation Engineer in the making, with hands-on experience in Python, Pytest, Selenium, and API testing. Built a custom pytest plugin out of curiosity about how test tooling works beneath the surface, not just how to use it. Detail-oriented and analytical, actively seeks feedback to sharpen technical understanding, with a growing focus on building reliable, maintainable test suites. 🚀<br><br>🚀 I am currently developing a Selenium test automation framework for the SauceDemo web application using the Page Object Model (POM) design pattern. <br>🤝 I am looking to collaborate on anything that screams excitement in the software testing realm.<br>📚 I am currently learning POM, and BDD, and constantly honing my testing skills. 🌐<br>🔍 I am looking for help with staying on top of the latest software testing trends. If you've got the lowdown on what's hot, I'm all ears.<br>
 
 
 ## 🌐 Socials:
@@ -19,14 +19,20 @@ Hey there! I'm Armin, 👨‍💻 A detail-oriented data analyst with a foundati
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="git logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
+  
+  
 </div><br>
 
 # 📊 GitHub Stats:
